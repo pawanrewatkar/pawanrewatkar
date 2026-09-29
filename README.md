@@ -127,6 +127,6 @@ I am particularly interested in:
 
 💼 LinkedIn: Add your LinkedIn profile
 
-📧 Email: Add your professional email
+📧 Email: pawanrewatkar28@gmail.com
 
 💻 GitHub: github.com/pawanrewatkar
