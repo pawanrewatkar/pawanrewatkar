@@ -19,7 +19,7 @@
 
 | Area                  | Technologies                     |
 | --------------------- | -------------------------------- |
-| **Languages**         | Java, JavaScript, TypeScript     |
+| **Languages**         | Java, JavaScript     |
 | **Web Automation**    | Selenium, Playwright, Cypress    |
 | **Mobile Automation** | Appium                           |
 | **API Testing**       | Postman, REST API                |
@@ -27,7 +27,7 @@
 | **Build Tools**       | Maven                            |
 | **Version Control**   | Git, GitHub                      |
 | **CI/CD**             | GitHub Actions       |
-| **IDE**               | IntelliJ IDEA, Eclipse           |
+| **IDE**               | IntelliJ IDEA, Eclipse , VS Code         |
 | **Tracking**          | Click-up, Asana, JIRA                            |
 
 ---
@@ -51,4 +51,4 @@
 
 📧 **Email:** pawanrewatkar28@gmail.com
 
-💻 **GitHub:** [github.com/pawanrewatkar](https://github.com/pawanrewatkar)
+💻 **Portfolio:** 
