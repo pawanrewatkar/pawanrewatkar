@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pawan Rewatkar
 
-### Senior QA Analyst | Automation Testing | Java + Selenium | Exploring Modern QA Technologies
+### Senior QA Analyst | QA Automation Engineer | Java + Selenium | API & Mobile Testing | Exploring Modern QA
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 **Playwright → TypeScript → Cypress → Appium → CI/CD → AI-Assisted QA**
 
