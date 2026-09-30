@@ -31,6 +31,13 @@
 | **Tracking**          | Click-up, Asana, JIRA                            |
 
 ---
+🚀 Featured Projects
+Selenium Hybrid Reusable Framework
+BDD Cucumber Automation Framework
+API Automation Framework
+Appium Mobile Automation
+Glendale Web UI Automation
+Project Pulse Automation
 
 
 ## 📚 Currently Exploring
