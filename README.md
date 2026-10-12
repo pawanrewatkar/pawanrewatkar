@@ -58,7 +58,7 @@
 
 ## 🤝 Connect With Me
 
-💼 **LinkedIn:** 
+💼 **LinkedIn:** LinkedIn
 
 📧 **Email:** pawanrewatkar28@gmail.com
 
